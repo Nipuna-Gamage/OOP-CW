@@ -1,9 +1,14 @@
-class Clothing extends Product {
+// Subclass 2
+public class Clothing extends Product {
     private String size;
     private String color;
-    public Clothing(String productID, String productName, int availableItems, double price) {
+    // Constructor
+    public Clothing(String productID, String productName, int availableItems, double price, String size, String color) {
         super(productID, productName, availableItems, price);
+        this.size=size;
+        this.color=color;
     }
+    /// Getter and setter methods for Clothing-specific attributes
     public String getSize() {
         return size;
     }
