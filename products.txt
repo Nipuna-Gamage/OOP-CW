@@ -1,0 +1,9 @@
+A1000,TV,20,299.99,Electronics,Samsung,12
+A203,Dishwasher,5,500.0,Electronics,bosh,30
+B001,Shirt,30,39.99,Clothing,S,White
+B201,Leggings,25,22.9,Clothing,M,Black
+2021,tv,12,12.0,Electronics,b,12
+2022,ts,35,300.0,Clothing,M,red
+2023,w,40,300.0,Electronics,f,23
+ww,we,13,134.0,Electronics,2,13
+w12,wed,123,12345.0,Electronics,e,12
